@@ -1,0 +1,28 @@
+{
+  "name": "elishuserbotstringalmaq",
+  "version": "1.0.0",
+  "description": "ElishUserbot Üçün String Almaq",
+  "main": "stringal.js",
+  "scripts": {
+    "test": "node stringal.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/by3lish/elishuserbotstringalmaq.git"
+  },
+  "keywords": [
+    "string",
+    "generator",
+    "elishuserbot"
+  ],
+  "author": "ByElish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/by3lish/elishuserbotstringalmaq/issues"
+  },
+  "homepage": "https://github.com/by3lish/elishuserbotstringalmaq#readme",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.15.3"
+  }
+}
