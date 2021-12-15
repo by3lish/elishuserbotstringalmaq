@@ -2,7 +2,7 @@
 
 const { Client } = require("whatsapp-web.js");
 const qrcode = require("qrcode-terminal");
-const logger = require("../logger");
+const logger = require("./logger");
 
 const client = new Client({
   puppeteer: { headless: true, args: ["--no-sandbox"] },
